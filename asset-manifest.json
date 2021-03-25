@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gastonmorixe.github.io/csb-rwgsi/static/css/main.c00be7ac.chunk.css",
+    "main.js": "https://gastonmorixe.github.io/csb-rwgsi/static/js/main.9f94fc8d.chunk.js",
+    "main.js.map": "https://gastonmorixe.github.io/csb-rwgsi/static/js/main.9f94fc8d.chunk.js.map",
+    "runtime-main.js": "https://gastonmorixe.github.io/csb-rwgsi/static/js/runtime-main.8e13e6d6.js",
+    "runtime-main.js.map": "https://gastonmorixe.github.io/csb-rwgsi/static/js/runtime-main.8e13e6d6.js.map",
+    "static/js/2.20c6706e.chunk.js": "https://gastonmorixe.github.io/csb-rwgsi/static/js/2.20c6706e.chunk.js",
+    "static/js/2.20c6706e.chunk.js.map": "https://gastonmorixe.github.io/csb-rwgsi/static/js/2.20c6706e.chunk.js.map",
+    "index.html": "https://gastonmorixe.github.io/csb-rwgsi/index.html",
+    "static/css/main.c00be7ac.chunk.css.map": "https://gastonmorixe.github.io/csb-rwgsi/static/css/main.c00be7ac.chunk.css.map",
+    "static/js/2.20c6706e.chunk.js.LICENSE.txt": "https://gastonmorixe.github.io/csb-rwgsi/static/js/2.20c6706e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e13e6d6.js",
+    "static/js/2.20c6706e.chunk.js",
+    "static/css/main.c00be7ac.chunk.css",
+    "static/js/main.9f94fc8d.chunk.js"
+  ]
+}
